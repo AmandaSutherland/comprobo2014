@@ -1,0 +1,8 @@
+prefix=/home/amanda-sutherland/catkin_ws/src/comprobo2014/install
+
+Name: neato_simulator
+Description: Description of neato_simulator
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/amanda-sutherland/catkin_ws/src/comprobo2014/install/lib 
+Requires: 

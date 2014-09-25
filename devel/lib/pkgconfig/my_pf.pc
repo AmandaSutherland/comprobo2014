@@ -1,0 +1,8 @@
+prefix=/home/amanda-sutherland/catkin_ws/src/comprobo2014/devel
+
+Name: my_pf
+Description: Description of my_pf
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/amanda-sutherland/catkin_ws/src/comprobo2014/devel/lib 
+Requires: 
